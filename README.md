@@ -2,4 +2,4 @@
 Google Directions
 
 Script:
-Gets Directions Automatically for the Intrasoft building. 
+Gets Directions for the Intrasoft building. 
